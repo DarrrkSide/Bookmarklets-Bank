@@ -13,10 +13,9 @@
 </div>
 
 ## How to Use
-For the bookmarklets 
 
-Select all of the code
+1. Select all of the code
 
-Drag it to your bookmarks bar
+2. Drag it to your bookmarks bar
 
-Click when you want to run the bookmarklet
+3. Click when you want to run the bookmarklet
