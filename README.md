@@ -24,9 +24,6 @@
 <p>
   Each downloadable game has a step-by-step tutorial on downloading and using it. There is also a quick tutorial.
 </p>
-
-## Quick Tutorial
-
 <p>
  <br>
    1. Download the .zip file
