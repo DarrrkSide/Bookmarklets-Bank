@@ -20,6 +20,23 @@
 
 3. Click when you want to run the bookmarklet
 
+## Downloadable Games / Hacks
+<p>
+  Each downloadable game has a step-by-step tutorial on downloading and using it. There is also a quick tutorial.
+</p>
+
+## Quick Tutorial
+
+<p>
+ <br>
+   1. Download the .zip file
+  <br>
+  2. Open the folder in the .zip file until you see an index.html file
+  <br>
+  3. Open the index.html file
+  <br>
+  4. Tada!
+</p>
 
 # About
 
