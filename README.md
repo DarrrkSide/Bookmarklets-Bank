@@ -19,3 +19,16 @@
 2. Drag it to your bookmarks bar
 
 3. Click when you want to run the bookmarklet
+
+
+# About
+
+## Safe?
+Yes this is safe, there have been **zero** recorded cases of a Khan account being banned for hacks (at least for now). <br>
+Also if you're asking if this is a virus it is 100% open sourced forever so you can look through the code to see for yourself. <br>
+
+## Support
+Star the repo, or join the discord. I will be adding a paid tier later (base hacks still free)
+<br>
+![image](https://github.com/ilytobias/Khan-Destroyer/assets/165577429/673061fc-c131-423b-a81b-daf862b96493)
+
