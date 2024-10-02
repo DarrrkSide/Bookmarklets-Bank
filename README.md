@@ -12,7 +12,7 @@
   You can also provide suggestions.
 </div>
 
-#How to Use
+## How to Use
 For the bookmarklets 
 
 Select all of the code
