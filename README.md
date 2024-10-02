@@ -32,7 +32,6 @@
   <br>
   3. Open the index.html file
   <br>
-  4. Tada!
 </p>
 
 # About
